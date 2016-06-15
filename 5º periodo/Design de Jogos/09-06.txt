@@ -1,0 +1,9 @@
+design de jogos - 09/06
+  
+unity 
+
+using scedmanagement;
+
+scendManagement Loard scene;
+
+open Scene Additive;
