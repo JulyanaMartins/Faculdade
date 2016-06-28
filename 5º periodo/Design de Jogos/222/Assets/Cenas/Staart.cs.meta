@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 97a45feffc1fed449bb1e1a9048ab914
+timeCreated: 1466525380
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MinionVoid: {fileID: 156034, guid: 904d2e9672b48204f8adb2ab1c4f4d08, type: 2}
+  - May: {instanceID: 0}
+  - Arma: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  - insMay: {instanceID: 0}
+  - inscanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
